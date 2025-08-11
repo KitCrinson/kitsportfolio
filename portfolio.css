@@ -23,7 +23,7 @@ border: 40px solid transparent;
 }
 .navbar{
 color: aqua;
-background-color: blue;
+background-color: #00008b;
 display: flex;
 justify-content: space-around;
 font-family: Saira;
@@ -32,7 +32,8 @@ font-family: Saira;
 .navbar a{
     color: #00bfff;
     text-decoration: none;
-   
+    
+
     
 }
 .icons{ 
@@ -59,3 +60,6 @@ justify-content: center;
 border-radius: 10%;
 }
 
+.navbar{
+a:hover{color: white;}
+}
