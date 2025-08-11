@@ -38,6 +38,7 @@ font-family: Saira;
 .icons{ 
 display:flex ; 
 justify-content: space-around;
+justify-content: center;
 margin-left: 100px;
 margin-right: 100px;
 }
