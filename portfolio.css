@@ -32,6 +32,7 @@ font-family: Saira;
 .navbar a{
     color: #00bfff;
     text-decoration: none;
+   
     
 }
 .icons{ 
@@ -56,3 +57,4 @@ align-content: center;
 justify-content: center;
 border-radius: 10%;
 }
+
