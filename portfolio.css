@@ -1,0 +1,58 @@
+
+@import url(https://fonts.googleapis.com/css?family=Saira:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic);
+body{
+ background-image: url('background.jpg');
+
+}
+.h1{
+color:#00bfff;
+font-family:Saira ;
+display: flex;
+justify-content: center;
+text-align: center;
+text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+
+}
+.p1{
+color: white;
+font-family: Saira;
+justify-content: center;
+text-align: center;
+justify-content: space-around;
+border: 40px solid transparent;
+}
+.navbar{
+color: aqua;
+background-color: blue;
+display: flex;
+justify-content: space-around;
+font-family: Saira;
+
+}
+.navbar a{
+    color: #00bfff;
+    text-decoration: none;
+    
+}
+.icons{ 
+display:flex ; 
+justify-content: space-around;
+margin-left: 100px;
+margin-right: 100px;
+}
+.p1 a{
+color: white;
+
+
+}
+.p1{
+a:hover {color:blue;} 
+
+}
+.mefade{
+display: flex;
+justify-content: space-around;
+align-content: center;
+justify-content: center;
+border-radius: 10%;
+}
