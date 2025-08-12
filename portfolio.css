@@ -38,10 +38,9 @@ font-family: Saira;
 }
 .icons{ 
 display:flex ; 
-justify-content: space-around;
-justify-content: center;
-margin-left: 100px;
-margin-right: 100px;
+justify-content: space-evenly;
+margin-left: 20%;
+margin-right: 10%;
 }
 .p1 a{
 color: white;
@@ -70,15 +69,10 @@ a:hover{color: white;}
 .h1{
     font-size:80px;}
     
-.icons{margin-left: 40px; 
-    margin-right: 40px;
-display: flex;
-justify-content: space-between;
-justify-content: space-around;
+
 
 }
 
-}
 
 
 @media screen and (min-width: 768px)
@@ -87,13 +81,7 @@ justify-content: space-around;
 .navbar a{ font-size:30px;}
 .h1{
     font-size:80px;}
-.icons{margin-left: 40px; 
-    margin-right: 40px;
-display: flex;
-justify-content: space-between;
-justify-content: space-around;
+.icon{width: 60%;}
 
 }
 
-
-}
