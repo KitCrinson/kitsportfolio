@@ -64,7 +64,9 @@ a:hover{color: white;}
 }
 @media screen and (min-width: 1024px)
 {
-.p1{font-size: xx-large;border: 80px solid transparent;}
+.p1{font-size: xx-large;border: 80px solid transparent;
+text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
 .navbar a{ font-size: 30px;}
 .h1{
     font-size:80px;}
