@@ -1,7 +1,7 @@
 
 @import url(https://fonts.googleapis.com/css?family=Saira:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic);
 body{
- background-image: url('newbackground.jpg');
+ background-image: url('background2.png');
 
 }
 .h1{
@@ -41,6 +41,7 @@ display:flex ;
 justify-content: space-evenly;
 margin-left: 20%;
 margin-right: 10%;
+
 }
 .p1 a{
 color: white;
